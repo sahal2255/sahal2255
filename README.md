@@ -44,7 +44,6 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 ### 🌱 What I'm Currently Working On
 - ⚛️ Building dynamic and responsive UIs with **React** and **Tailwind CSS**
 - ☁️ Exploring backend technologies like **microservices** and **serverless architecture**
-- 🚀 Diving into **cloud deployment** and **CI/CD pipelines**
 
 ---
 
