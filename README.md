@@ -1,6 +1,7 @@
 # Hi there, I'm Sahal V V 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sahal2255?label=Follow&style=social)](https://github.com/sahal2255?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=sahal2255&style=flat-square)](https://github.com/sahal2255)
 
 ## 🚀 About Me
 I am a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, and Node.js). I love crafting scalable web applications, learning cutting-edge technologies, and tackling challenging problems. Welcome to my GitHub profile! 🎉
@@ -29,7 +30,6 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
