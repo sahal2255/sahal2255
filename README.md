@@ -1,7 +1,6 @@
 # Hi there, I'm Sahal V V 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sahal2255?label=Follow&style=social)](https://github.com/sahal2255?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=sahal2255&style=flat-square)](https://github.com/sahal2255)
 
 ## 🚀 About Me
 I am a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, and Node.js). I love crafting scalable web applications, learning cutting-edge technologies, and tackling challenging problems. Welcome to my GitHub profile! 🎉
@@ -36,7 +35,8 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 ### 🚀 Projects
 
 - **[Weather App](https://github.com/sahalvv/weather-app):** ⛅ A weather forecasting app built using React and Tailwind CSS, complete with animations for clouds and rain.
-- **[Olympics Project](https://github.com/sahalvv/olympics-project):** 🏅 A React app centered around the Paris Olympic Games, featuring navigation, event details, and icons.
+- **[dryvitals.shop](https://dryvitals.shop):** 🛒 A full-featured eCommerce website built with **Express.js**, **MongoDB**, **HTML**, **CSS**, and **Handlebars (HBS)**. This project showcases my ability to build scalable eCommerce solutions from scratch, including cart management, product listings, and more.
+
 
 ---
 
@@ -61,5 +61,14 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahalvv&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahalvv&layout=compact&theme=radical)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahalvv&show_icons=true&theme=radical" alt="Sahal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahalvv&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100">
+  <p><strong>Keep Coding, Stay Curious! 🚀</strong></p>
+</div>
