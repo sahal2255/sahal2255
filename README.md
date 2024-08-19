@@ -61,14 +61,3 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ---
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahalvv&show_icons=true&theme=radical" alt="Sahal's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahalvv&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100">
-  <p><strong>Keep Coding, Stay Curious! 🚀</strong></p>
-</div>
