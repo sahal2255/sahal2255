@@ -34,8 +34,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ### 🚀 Projects
 
-- **[Weather App](https://github.com/sahalvv/weather-app):** ⛅ A weather forecasting app built using React and Tailwind CSS, complete with animations for clouds and rain.
 - **[dryvitals.shop](https://dryvitals.shop):** 🛒 A full-featured eCommerce website built with **Express.js**, **MongoDB**, **HTML**, **CSS**, and **Handlebars (HBS)**. This project showcases my ability to build scalable eCommerce solutions from scratch, including cart management, product listings, and more.
+
+- **[Weather App](https://github.com/sahalvv/weather-app):** ⛅ A weather forecasting app built using React and Tailwind CSS, complete with animations for clouds and rain.
 
 
 ---
