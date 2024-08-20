@@ -1,7 +1,6 @@
 # Hi there, I'm Sahal V V 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sahal2255?label=Follow&style=social)](https://github.com/sahal2255?tab=followers)
-[![Vercel](https://img.shields.io/badge/Powered%20by-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## 🚀 About Me
 I am a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, and Node.js). I love crafting scalable web applications, learning cutting-edge technologies, and tackling challenging problems. Welcome to my GitHub profile! 🎉
