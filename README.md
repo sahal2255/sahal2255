@@ -57,7 +57,7 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 - Telegram: [Click Here](https://t.me/@sahalvv)
 - Email: [sahalvv9656@gmail.com](mailto:sahalvv9656@gmail.com)
 - LinkedIn: [Sahal V V](https://www.linkedin.com/in/sahalvv/)
-- Instagram: [@yourusername](https://www.instagram.com/_.sahal_vv/)
+- Instagram: [Sahal vv](https://www.instagram.com/_.sahal_vv/)
 
 ---
 
