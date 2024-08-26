@@ -50,6 +50,10 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 - ☁️ Exploring backend technologies like **microservices** and **serverless architecture**
 
 ---
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahal2255&theme=radical)
+
 
 ### 📫 Get in Touch
 
