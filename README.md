@@ -72,4 +72,3 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ### ⚡ Fun Facts
 - 💡 Completed **20+ mini projects** and **1 major project** in full-stack development.
-- 🛠 Passionate about solving complex problems and learning new tools.
