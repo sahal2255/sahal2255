@@ -19,6 +19,9 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HBS](https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebars.js&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-4E4E4E?style=for-the-badge&logo=ejs&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 
 #### Backend
