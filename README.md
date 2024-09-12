@@ -59,7 +59,13 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 ---
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahal2255&theme=radical)
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahal2255&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahal2255&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sahal2255&theme=radical)
+![Commits](https://github-readme-stats.vercel.app/api?username=sahal2255&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 
 
 ### 📫 Get in Touch
