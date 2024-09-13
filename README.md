@@ -59,15 +59,6 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 ---
 
 
-### 🏆 GitHub Achievements
-
-[![GitHub Commits](https://img.shields.io/badge/Commits-🏅%201K-brightgreen?style=for-the-badge&logo=github)](https://github.com/sahal2255)
-[![GitHub Stars](https://img.shields.io/badge/Stars-⭐%2050%2B-blue?style=for-the-badge&logo=github)](https://github.com/sahal2255)
-[![GitHub Followers](https://img.shields.io/badge/Followers-👥%20100%2B-orange?style=for-the-badge&logo=github)](https://github.com/sahal2255)
-[![GitHub Pull Requests](https://img.shields.io/badge/Pull%20Requests-✅%2010%2B-yellowgreen?style=for-the-badge&logo=github)](https://github.com/sahal2255)
-[![GitHub Issues](https://img.shields.io/badge/Issues-🚀%2050%2B-red?style=for-the-badge&logo=github)](https://github.com/sahal2255)
-[![Top Languages](https://img.shields.io/badge/Top%20Languages-💻%20JavaScript%20%26%20React-9cf?style=for-the-badge&logo=github)](https://github.com/sahal2255)
-
 
 ### 📫 Get in Touch
 
