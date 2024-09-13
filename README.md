@@ -57,14 +57,13 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 - ⚛️ Building dynamic and responsive UIs with **React** and **Tailwind CSS**
 
 ---
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahal2255&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahal2255&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sahal2255&theme=radical)
-![Commits](https://github-readme-stats.vercel.app/api?username=sahal2255&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Radical-4c1?style=for-the-badge&logo=github)
+![Commits](https://img.shields.io/badge/Commits-100+-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-50+-blueviolet?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/badge/Issues_Closed-25+-red?style=for-the-badge&logo=github)
 
 
 
