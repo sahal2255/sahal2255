@@ -58,15 +58,15 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ---
 
-### 📊 GitHub Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/sahal2255?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/sahal2255?style=social)
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/sahal2255?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/sahal2255?style=for-the-badge)
-![Top Languages](https://img.shields.io/github/languages/top/sahal2255?style=for-the-badge)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sahal2255?style=for-the-badge)
+### 🏆 GitHub Achievements
 
+[![GitHub Commits](https://img.shields.io/badge/Commits-🏅%201K-brightgreen?style=for-the-badge&logo=github)](https://github.com/sahal2255)
+[![GitHub Stars](https://img.shields.io/badge/Stars-⭐%2050%2B-blue?style=for-the-badge&logo=github)](https://github.com/sahal2255)
+[![GitHub Followers](https://img.shields.io/badge/Followers-👥%20100%2B-orange?style=for-the-badge&logo=github)](https://github.com/sahal2255)
+[![GitHub Pull Requests](https://img.shields.io/badge/Pull%20Requests-✅%2010%2B-yellowgreen?style=for-the-badge&logo=github)](https://github.com/sahal2255)
+[![GitHub Issues](https://img.shields.io/badge/Issues-🚀%2050%2B-red?style=for-the-badge&logo=github)](https://github.com/sahal2255)
+[![Top Languages](https://img.shields.io/badge/Top%20Languages-💻%20JavaScript%20%26%20React-9cf?style=for-the-badge&logo=github)](https://github.com/sahal2255)
 
 
 ### 📫 Get in Touch
