@@ -60,10 +60,12 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Radical-4c1?style=for-the-badge&logo=github)
-![Commits](https://img.shields.io/badge/Commits-100+-brightgreen?style=for-the-badge&logo=git&logoColor=white)
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-50+-blueviolet?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Issues_Closed-25+-red?style=for-the-badge&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/sahal2255?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/sahal2255?style=social)
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/sahal2255?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/sahal2255?style=for-the-badge)
+![Top Languages](https://img.shields.io/github/languages/top/sahal2255?style=for-the-badge)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sahal2255?style=for-the-badge)
 
 
 
