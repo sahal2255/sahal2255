@@ -44,6 +44,12 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ---
 
+![Sahal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahal2255&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahal2255&layout=compact&theme=radical)
+![Contribution Graph](https://github.com/sahal2255/github-readme-activity-graph.svg)
+
+---
+
 ### 🚀 Projects
 
 - **[dryvitals.shop](https://dryvitals.shop):** 🛒 A full-featured eCommerce website built with **Express.js**, **MongoDB**, **HTML**, **CSS**, and **Handlebars (HBS)**. This project showcases my ability to build scalable eCommerce solutions from scratch, including cart management, product listings, and more.
