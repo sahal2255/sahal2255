@@ -52,10 +52,11 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 
 ### 🚀 Projects
 
+- **[Quick Fix](https://github.com/sahalvv/QuickFix_Frontend):** 🔧 A service booking platform for vendors and users. Built with React, Node.js, MongoDB, and Redux for seamless state management. Features include service type management, booking history, coupon management, and secure payment integration with Razorpay.
+
 - **[dryvitals.shop](https://dryvitals.shop):** 🛒 A full-featured eCommerce website built with **Express.js**, **MongoDB**, **HTML**, **CSS**, and **Handlebars (HBS)**. This project showcases my ability to build scalable eCommerce solutions from scratch, including cart management, product listings, and more.
 
 - **[Weather App](https://github.com/sahalvv/weather-app):** ⛅ A weather forecasting app built using React and Tailwind CSS, complete with animations for clouds and rain.
-- **[Quick Fix]:** 🔧 A service booking platform for vendors and users. Built with React, Node.js, MongoDB, and Redux for seamless state management. Features include service type management, booking history, coupon management, and secure payment integration with Razorpay.
 
 ---
 
