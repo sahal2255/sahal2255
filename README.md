@@ -76,6 +76,3 @@ I am a passionate **Full Stack Developer** specializing in the **MERN stack** (M
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.sahal_vv/)
 
 ---
-
-### ⚡ Fun Facts
-- 💡 Completed **20+ mini projects** and **1 major project** in full-stack development.
